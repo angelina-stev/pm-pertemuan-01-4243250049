@@ -25,7 +25,7 @@ Kelas   : PSIK 24C
 
 ## Pernyataan Penggunaan AI
 
-Dalam pengerjaan Tugas Rutin 1 ini, AI (Gemini) digunakan sebagai media diskusi untuk membantu memahami penataan layout dasar widget Flutter (SizedBox, Card, Column), pencarian referensi, serta memberikan petunjuk struktur dokumentasi README.md.
+Dalam pengerjaan Tugas Rutin 1 ini, AI (Gemini) digunakan sebagai media diskusi untuk membantu memahami penataan layout dasar widget Flutter (SizedBox, Card, Column), pencarian referensi, memberikan petunjuk struktur dokumentasi README.md serta penggunaan Git dan Github.
 
 
 
