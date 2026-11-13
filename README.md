@@ -28,7 +28,6 @@ Kelas   : PSIK 24C
 Dalam pengerjaan Tugas Rutin 1 ini, AI (Gemini) digunakan sebagai media diskusi untuk membantu memahami penataan layout dasar widget Flutter (SizedBox, Card, Column), pencarian referensi, memberikan petunjuk struktur dokumentasi README.md serta penggunaan Git dan Github.
 
 
-
 ## Esai (150–250 Kata): Perbandingan Native, Hybrid, dan Cross-Platform
 
 Pengembangan aplikasi mobile umumnya menggunakan tiga pendekatan utama: Native, Hybrid, dan Cross-Platform.
